@@ -7,7 +7,7 @@ class Calculator(object):
     def addition(self, num1, num2):
         print(num1+num2)
         return num1 + num2
-        # shinuikkk
+        # shinui
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
